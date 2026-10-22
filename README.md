@@ -6,3 +6,9 @@ Lab 3.1 - Amazon SageMaker - Creating and importing data
 -
 Lab 3.2 - Amazon SageMaker - Exploring Data
 <img width="1872" height="975" alt="{19F44175-C51A-412B-AD2D-17C5057FB134}" src="https://github.com/user-attachments/assets/f67bf2be-2c7f-45fc-9674-f58b240f8919" />
+-
+Lab 3.3 - Amazon SageMaker - Encoding Categorical Data
+<img width="1753" height="985" alt="image" src="https://github.com/user-attachments/assets/e7e2efdd-4a9c-4b5b-9ac2-a0808fc982ba" />
+-
+Lab 3.4 - Amazon SageMaker - Training a model
+<img width="1730" height="908" alt="image" src="https://github.com/user-attachments/assets/d5c8ae60-939d-49cb-856b-5a97488908e0" />
