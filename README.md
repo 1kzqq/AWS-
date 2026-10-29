@@ -12,3 +12,7 @@ Lab 3.3 - Amazon SageMaker - Encoding Categorical Data
 -
 Lab 3.4 - Amazon SageMaker - Training a model
 <img width="1730" height="908" alt="image" src="https://github.com/user-attachments/assets/d5c8ae60-939d-49cb-856b-5a97488908e0" />
+-
+Lab 3.5 - Amazon SageMaker - Deploying a model
+<img width="1853" height="934" alt="{DF800D90-2C50-44EE-ABF7-7537CB5A17B7}" src="https://github.com/user-attachments/assets/31871ebc-1a57-4a29-a4ff-e9e2c4390d6b" />
+
