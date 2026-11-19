@@ -28,3 +28,6 @@ Module 3 Knowledge Check
 Challenge lab
 <img width="1818" height="908" alt="{8DDAC2E0-479D-4B03-B9EF-8E92E4778F45}" src="https://github.com/user-attachments/assets/0f85c9c4-4319-452a-aadc-856f6db8c913" />
 -
+Module 4 Knowledge Check
+<img width="1830" height="878" alt="{9E585C2A-A858-4EF9-98A7-2A8FAFFB275E}" src="https://github.com/user-attachments/assets/70acfff8-bf27-4d2c-ac4b-d01a2b93987a" />
+-
